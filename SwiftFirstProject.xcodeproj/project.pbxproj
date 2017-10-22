@@ -8,12 +8,14 @@
 
 /* Begin PBXFileReference section */
 		9AF5D7781F9D378500F360E0 /* FirstSwiftFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstSwiftFile.swift; sourceTree = "<group>"; };
+		9AF5D7791F9D3B9900F360E0 /* SeconfFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeconfFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		9AF5D7711F9D377000F360E0 = {
 			isa = PBXGroup;
 			children = (
+				9AF5D7791F9D3B9900F360E0 /* SeconfFile.swift */,
 				9AF5D7781F9D378500F360E0 /* FirstSwiftFile.swift */,
 			);
 			sourceTree = "<group>";
